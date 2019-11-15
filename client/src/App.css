@@ -2,3 +2,10 @@ h1 {
   font-size: 4rem;
   font-family: 'Oswald', sans-serif;
 }
+
+@media (min-width: 768px) {
+  .content-box {
+    max-height: 100vh;
+    overflow: scroll;
+  }
+}

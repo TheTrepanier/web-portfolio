@@ -1,0 +1,37 @@
+[
+    {
+        "id": "Pensive",
+        "publicLink": "https://pensive19.herokuapp.com/",
+        "githubLink": "https://github.com/TheTrepanier/pensive",
+        "image": "",
+        "description": "Description..."
+    },
+    {
+        "id": "Hamburguesa",
+        "publicLink": "https://hidden-brushlands-93351.herokuapp.com/",
+        "githubLink": "https://github.com/TheTrepanier/hamburguesa",
+        "image": "",
+        "description": "Description..."
+    },
+    {
+        "id": "jQuery-RPG",
+        "publicLink": "https://thetrepanier.github.io/jQuery-rpg/",
+        "githubLink": "https://github.com/TheTrepanier/jQuery-rpg",
+        "image": "",
+        "description": "Description..."
+    },
+    {
+        "id": "Word-Guess-Game",
+        "publicLink": "https://thetrepanier.github.io/word-guess-game/",
+        "githubLink": "https://github.com/TheTrepanier/word-guess-game",
+        "image": "",
+        "description": "Description..."
+    },
+    {
+        "id": "Liri",
+        "publicLink": "https://github.com/TheTrepanier/liri-node-app/blob/master/README.md",
+        "githubLink": "https://github.com/TheTrepanier/liri-node-app",
+        "image": "",
+        "description": "Description..."
+    }
+]
