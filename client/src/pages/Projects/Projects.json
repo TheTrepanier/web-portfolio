@@ -3,35 +3,36 @@
         "id": "Pensive",
         "publicLink": "https://pensive19.herokuapp.com/",
         "githubLink": "https://github.com/TheTrepanier/pensive",
-        "image": "",
-        "description": "Description..."
+        "description": "Pensive is a full MERN stack application. For its development MongoDB was used for the Database. ExpressJs was used for routing user traffice and communication between the front end client and server software. ReactJs was used to build the user interface, and Node was used for developing the web apps backend functions."
     },
     {
-        "id": "Hamburguesa",
+        "id": "Chez Munchlax",
         "publicLink": "https://hidden-brushlands-93351.herokuapp.com/",
         "githubLink": "https://github.com/TheTrepanier/hamburguesa",
-        "image": "",
         "description": "Description..."
     },
     {
         "id": "jQuery-RPG",
         "publicLink": "https://thetrepanier.github.io/jQuery-rpg/",
         "githubLink": "https://github.com/TheTrepanier/jQuery-rpg",
-        "image": "",
         "description": "Description..."
     },
     {
         "id": "Word-Guess-Game",
         "publicLink": "https://thetrepanier.github.io/word-guess-game/",
         "githubLink": "https://github.com/TheTrepanier/word-guess-game",
-        "image": "",
         "description": "Description..."
+    },
+    {
+        "id": "Portfolio",
+        "publicLink": "https://github.com/TheTrepanier/web-portfolio/",
+        "githubLink": "https://github.com/TheTrepanier/web-portfolio",
+        "description": "View the source code for this portfolio!"
     },
     {
         "id": "Liri",
         "publicLink": "https://github.com/TheTrepanier/liri-node-app/blob/master/README.md",
         "githubLink": "https://github.com/TheTrepanier/liri-node-app",
-        "image": "",
         "description": "Description..."
     }
 ]

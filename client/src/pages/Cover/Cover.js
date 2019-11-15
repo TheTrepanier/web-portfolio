@@ -31,15 +31,13 @@ function Cover() {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col">
-                        {Skills.map(skill => (
-                            <SkillCard
-                                key={skill.id}
-                                svg={skill.svg}
-                                skill={skill.alt}
-                                />
-                        ))}
-                    </div>
+                    {Skills.map(skill => (
+                        <SkillCard
+                            key={skill.id}
+                            svg={skill.svg}
+                            skill={skill.alt}
+                            />
+                    ))}
                 </div>
             </div>
         </div>

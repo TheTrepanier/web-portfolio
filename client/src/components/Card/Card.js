@@ -10,7 +10,7 @@ function Card(props) {
                 <p className="card-text">
                     {props.description}
                 </p>
-                <a 
+                <a
                     className="card-link"
                     href={props.public}
                     target="_blank"
@@ -18,7 +18,7 @@ function Card(props) {
                 >
                     Live
                 </a>
-                <a 
+                <a
                     className="card-link"
                     href={props.github}
                     target="_blank"
