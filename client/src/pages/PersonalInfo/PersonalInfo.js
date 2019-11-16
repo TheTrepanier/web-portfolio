@@ -43,8 +43,14 @@ function PersonalInfo() {
                     </a>
                 </div>
             </div>
-            <div className="row mt-4">
-                <div className="col">
+            <div className="row mt-md-4 mt-lg-5">
+                <div className="col-sm-12 col-lg-4 mb-4 text-center">
+                    <Link to="/" className="btn btn-outline-light">Cover</Link>
+                </div>
+                <div className="col-sm-12 col-lg-4 mb-4 text-center">
+                    <Link to="/projects" className="btn btn-outline-light">Projects</Link>
+                </div>
+                <div className="col-sm-12 col-lg-4 text-center">
                     <a
                         className="btn btn-outline-light"
                         href={Resume}
@@ -53,12 +59,6 @@ function PersonalInfo() {
                         rel="noopener noreferrer">
                         RESUME
                     </a>
-                </div>
-                <div className="col">
-                    <Link to="/" className="btn btn-outline-light">Cover</Link>
-                </div>
-                <div className="col">
-                    <Link to="/projects" className="btn btn-outline-light">Projects</Link>
                 </div>
             </div>
         </div>

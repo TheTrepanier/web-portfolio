@@ -9,23 +9,23 @@
         "id": "Chez Munchlax",
         "publicLink": "https://hidden-brushlands-93351.herokuapp.com/",
         "githubLink": "https://github.com/TheTrepanier/hamburguesa",
-        "description": "Description..."
+        "description": "A basic CRUD application built using a MySQL database, ExpressJs routing, HandlebarsJs for the front end, and a NodeJs server."
     },
     {
         "id": "jQuery-RPG",
         "publicLink": "https://thetrepanier.github.io/jQuery-rpg/",
         "githubLink": "https://github.com/TheTrepanier/jQuery-rpg",
-        "description": "Description..."
+        "description": "A simplified version of the clasic Pokemon RPG, built in jQuery."
     },
     {
         "id": "Word-Guess-Game",
         "publicLink": "https://thetrepanier.github.io/word-guess-game/",
         "githubLink": "https://github.com/TheTrepanier/word-guess-game",
-        "description": "Description..."
+        "description": "A game of hangman based on Pokemon, each round is powered by an API call to the PokeAPI."
     },
     {
-        "id": "Portfolio",
-        "publicLink": "https://github.com/TheTrepanier/web-portfolio/",
+        "id": "My Portfolio",
+        "publicLink": "trepanier.dev",
         "githubLink": "https://github.com/TheTrepanier/web-portfolio",
         "description": "View the source code for this portfolio!"
     },
@@ -33,6 +33,6 @@
         "id": "Liri",
         "publicLink": "https://github.com/TheTrepanier/liri-node-app/blob/master/README.md",
         "githubLink": "https://github.com/TheTrepanier/liri-node-app",
-        "description": "Description..."
+        "description": "LIRI is a command-line node app that takes in parameters and gives you back data by making API calls to various web services."
     }
 ]
