@@ -25,7 +25,7 @@
     },
     {
         "id": "My Portfolio",
-        "publicLink": "trepanier.dev",
+        "publicLink": "https://trepanier.dev",
         "githubLink": "https://github.com/TheTrepanier/web-portfolio",
         "description": "View the source code for this portfolio!"
     },
